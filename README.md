@@ -18,7 +18,7 @@ Contributions are what make the open source community such an amazing place to b
 https://github.com/kaweendras/ImageProcessing_OpenCV_Python.git
 ```
 
-OpenCV
+OpenCV & NumPy
 
 ```pip
 pip install opencv-python
