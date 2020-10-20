@@ -1,6 +1,6 @@
 # Image Processing In OpenCV With Python
 
-<img src="https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/201808/FedTech-ComputerVision.jpg?itok=D3iTCeM4"/>
+<img src="https://github.com/kaweendras/ImageProcessing_OpenCV_Python/blob/master/resources/sample.JPG"/>
 
 ## Contributing
 
