@@ -1,4 +1,4 @@
-# Image Processing In OpenCV With Python
+# Image Processing In Python With OpenCV
 
 <img src="https://github.com/kaweendras/ImageProcessing_OpenCV_Python/blob/master/resources/sample.JPG"/>
 
